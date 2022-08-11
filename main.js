@@ -2,30 +2,32 @@ const elementoResposta = document.querySelector('#resposta')
 const inputPergunta = document.querySelector('#inputPergunta')
 const buttonPerguntar = document.querySelector('#buttonPerguntar')
 const respostas = [
-  'Acendedor de postes no Rio de Janeiro, 1888.',
-  'Senhor de engenho em Pernambuco, 1650.',
-  'Kamarada do exército Soviético Georgia, 1935.',
-  'Bandeirante em Ouro Preto, 1754.',
-  'Comerciante de tecidos em Salvador, 1910.',
-  'Vamos pensar um pouco.',
-  'Marinheiro no cais do valongo, 1910.',
-  'Espião da CIA em Casablanca, 1942.',
-  'Samurai no Japão, 1873.',
+  'Acendedor de postes, Rio de Janeiro 1888.',
+  'Pirata no Caribe, Ilhas Caimã 1650.',
+  'Kamarada do exército Soviético, Georgia 1935.',
+  'Bandeirante, Ouro Preto 1754.',
+  'Designer de sombrancelhas da Frida Khalo, México 1930.',
+  'Vamos pensar um pouco, faça novamente.',
+  'Kamikaze japonês, Pearl Harbor 1941.',
+  'Espião da CIA, Casablanca 1942.',
+  'Samurai desempregado, Japão 1874.',
   'Depois eu te falo.',
   'Leiteiro em Lima Duarte, 1899.',
   'deixa quieto.',
   'O soldado 123 dos 300 de Sparta, Mar egeu.',
-  'Atriz de rádio em São Paulo, 1943.',
-  'Operador de telegrafo em Recife, 1879 .',
-  'Cortador de gelo na Islândia, 1789.',
-  'Banqueiro na Suiça, 1929.',
+  'Agricultor, Canudos 1893.',
+  'Judas Iscariotes(o próprio), Jerusalém 33dc .',
+  'Cortador de gelo, Islândia 1789.',
+  'Banqueiro, Nova Iorque  1929.',
   'Mentaliza e pergunta de novo. ',
   'Escute os sinais.',
   'Padre em Quixeramobim, 1910',
-  'Carpinteiro na Palestina, -30 A.C.',
-  'Esposa de carpinteiro -30, A.C.',
+  'Carpinteiro Palestina, -30 A.C.',
+  'Esposa de carpinteiro, Palestina -30, A.C.',
   'Operária de uma fábrica de tecidos, Nova Iorque 1857.',
-  'Um Cherpa no Nepal,1953.'
+  'Um Cherpa, Nepal 1953.',
+  'Mercador genovês, Crimeia 1343.',
+  'Aristocrata, França 1789.'
 ]
 
 // CLICAR EM FAZER PERGUNTA
