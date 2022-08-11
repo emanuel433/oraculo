@@ -8,19 +8,24 @@ const respostas = [
   'Bandeirante em Ouro Preto, 1754.',
   'Comerciante de tecidos em Salvador, 1910.',
   'Vamos pensar um pouco.',
-  'Estivador no cais do valongo, 1915.',
+  'Marinheiro no cais do valongo, 1910.',
   'Espião da CIA em Casablanca, 1942.',
-  'Professora no Egito, 1841.',
+  'Samurai no Japão, 1873.',
   'Depois eu te falo.',
   'Leiteiro em Lima Duarte, 1899.',
   'deixa quieto.',
-  'Operadora de mimeografo, 1915.',
+  'O soldado 123 dos 300 de Sparta, Mar egeu.',
   'Atriz de rádio em São Paulo, 1943.',
   'Operador de telegrafo em Recife, 1879 .',
   'Cortador de gelo na Islândia, 1789.',
   'Banqueiro na Suiça, 1929.',
   'Mentaliza e pergunta de novo. ',
-  'Escute os sinais.'
+  'Escute os sinais.',
+  'Padre em Quixeramobim, 1910',
+  'Carpinteiro na Palestina, -30 A.C.',
+  'Esposa de carpinteiro -30, A.C.',
+  'Operária de uma fábrica de tecidos, Nova Iorque 1857.',
+  'Um Cherpa no Nepal,1953.'
 ]
 
 // CLICAR EM FAZER PERGUNTA
@@ -46,5 +51,5 @@ function fazerPergunta() {
   setTimeout(function () {
     elementoResposta.style.opacity = 0
     buttonPerguntar.removeAttribute('disabled')
-  }, 3000)
+  }, 4000)
 }
