@@ -1,6 +1,6 @@
 ## Oráculo das vidas passadas!
 
-![previel]()
+![previel](./.github/preview.png)
 
 Projeto desenvolvido apartir da maratona explorer 1.0 (adaptado) para chamar aleatóriamente um personagem de outros tempos. através de funções javascript.
 
