@@ -27,7 +27,10 @@ const respostas = [
   'Operária de uma fábrica de tecidos, Nova Iorque 1857.',
   'Um Cherpa, Nepal 1953.',
   'Mercador genovês, Crimeia 1343.',
-  'Aristocrata, França 1789.'
+  'Aristocrata, França, 1789.',
+  'Capoeirista, Salvador, 1930.',
+  'Fora da lei, Arizona, 1885',
+  'Ator, China, 1750'
 ]
 
 // CLICAR EM FAZER PERGUNTA
